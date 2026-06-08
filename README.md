@@ -30,14 +30,6 @@ NTRU is a post-quantum cryptographic algorithm that relies on the hardness of la
 - Error handling for non-invertible polynomials
 
 ---
-
-## Technologies Used
-
-- Python 3
-- SymPy Library
-
----
-
 ## Cryptographic Concepts
 
 - Lattice-Based Cryptography
@@ -84,18 +76,6 @@ Step 3:
 c = b × fp (mod p)
 
 The decrypted polynomial c should match the original message polynomial m.
-
----
-
-## Project Structure
-
-```text
-NTRU-Lattice-Based-Cryptography/
-│
-├── ntru.py
-├── README.md
-└── screenshots/
-```
 
 ---
 
@@ -221,33 +201,6 @@ Decryption Successful
 - Performance optimization for large polynomial sizes has not been implemented.
 
 ---
-
-## Future Enhancements
-
-- Automatic generation of secure NTRU parameters
-- Complete NTRU key generation implementation
-- Graphical User Interface (GUI)
-- Digital signature support
-- Performance analysis and benchmarking
-- Integration with secure communication systems
-- Support for larger polynomial degrees
-
----
-
-## Learning Outcomes
-
-Through this project, the following concepts were explored:
-
-- Polynomial arithmetic using SymPy
-- Finite field operations
-- Modular reduction techniques
-- Public key cryptography
-- Lattice-based encryption methods
-- Post-quantum cryptographic concepts
-- Encryption and decryption workflows
-
----
-
 ## Author
 
 **Siva Surya T**
