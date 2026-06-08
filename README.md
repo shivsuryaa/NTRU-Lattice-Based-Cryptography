@@ -1,4 +1,4 @@
-# NTRU-Inspired Lattice-Based Encryption System
+# NTRU Lattice-Based Public Key Cryptography System
 
 ## Project Overview
 
