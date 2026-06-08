@@ -180,16 +180,6 @@ Decryption Successful
 
 ---
 
-## Applications
-
-- Secure Communication Systems
-- Post-Quantum Cryptography Research
-- Cyber Security Education
-- Cryptographic Algorithm Demonstration
-- Academic Learning and Experimentation
-
----
-
 ## Limitations
 
 - This is a simplified educational implementation of the NTRU cryptosystem.
